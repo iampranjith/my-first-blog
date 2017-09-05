@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35e290f8-0dae-4976-8b64-c7930f31ac95" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/django1.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogapp/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogapp/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogapp/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogapp/migrations/0001_initial.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogapp/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogapp/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogapp/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blogapp/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django1/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django1/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django1/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django1/wsgi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
-    </list>
+    <list default="true" id="35e290f8-0dae-4976-8b64-c7930f31ac95" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +69,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="-4" />
+    <option name="y" value="896" />
     <option name="width" value="1600" />
     <option name="height" value="904" />
   </component>
@@ -183,7 +163,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-4" width="1600" height="904" extended-state="6" />
+    <frame x="0" y="896" width="1600" height="904" extended-state="6" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12290862" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
